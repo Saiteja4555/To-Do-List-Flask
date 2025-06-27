@@ -1,0 +1,8 @@
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+li a {
+  margin-right: 10px;
+  text-decoration: none;
+}
